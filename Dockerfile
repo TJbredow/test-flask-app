@@ -1,4 +1,4 @@
-FROM locahost:32500/flask-base
+FROM registry.gitlab.com/tjbredow/sample-app
 
 COPY . /app
 
